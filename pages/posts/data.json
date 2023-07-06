@@ -1,0 +1,51 @@
+{
+    "regions": [
+      {
+        "name": "Sumatera",
+        "foods": [
+          {
+            "image": "https://www.warisankuliner.com/gfx/recipes/temp_thumb-1658299943.jpg",
+            "title": "Rendang",
+            "description": "Rendang adalah masakan daging yang dimasak dengan bumbu rempah-rempah kering, seperti serai, jahe, lengkuas, kunyit, cabe merah, bawang merah, bawang putih, cabai merah, cabai rawit, kelapa parut, ketumbar, jintan, kayu manis, dan biji pala."
+          },
+          {
+            "image": "https://kurio-img.kurioapps.com/21/04/23/2bdb07e3-681c-4e48-977b-0e63b765975f.jpe",
+            "title": "Gulai Singkong",
+            "description": "Gulai Singkong adalah masakan khas Sumatera yang terbuat dari singkong yang dimasak dengan bumbu rempah-rempah, santan, dan daging."
+          },
+          {
+            "image": "https://assets.ayobandung.com/crop/0x475:1280x1382/750x500/webp/photo/2023/01/16/2221082752.jpg",
+            "title": "Sate Padang",
+            "description": "Sate padang adalah sebutan untuk tiga jenis varian sate di Sumatera Barat, yaitu Sate Padang, Sate Padang Panjang dan Sate Pariaman. Sate Padang memakai bahan daging sapi, lidah, biji atau jeroan (jantung, usus, dan tetelan) dengan bumbu kuah kacang kental yang ditambah dengan cabai yang banyak sehingga rasanya pedas. Sate Padang Panjang dibedakan dengan kuah sate nya yang berwarna kuning. Sedangkan, Sate Pariaman kuahnya berwarna merah. Rasa kedua jenis sate ini juga berbeda. Sate padang mempunyai bermacam rasa perpaduan kedua jenis varian sate di atas. "
+          }
+        ]
+      },
+      {
+        "name": "Jawa",
+        "foods": [
+          {
+            "title": "Gudeg",
+            "description": "Gudeg adalah makanan khas Yogyakarta dan Jawa Tengah yang terbuat dari nangka muda yang dimasak dalam santan dengan bumbu rempah-rempah."
+          },
+          {
+            "title": "Sate Ayam",
+            "description": "Sate Ayam adalah makanan khas Jawa yang terdiri dari daging ayam yang ditusuk dan dipanggang, disajikan dengan bumbu kacang."
+          }
+        ]
+      },
+      {
+        "name": "Kalimantan",
+        "foods": [
+          {
+            "title": "Pansoh Manuk",
+            "description": "Pansoh Manuk adalah masakan khas Kalimantan yang terdiri dari ayam yang dimasak dalam bambu dengan bumbu tradisional Kalimantan seperti lengkuas, serai, daun salam, dan kunyit."
+          },
+          {
+            "title": "Lemang",
+            "description": "Lemang adalah makanan tradisional Kalimantan yang terbuat dari beras yang dimasak dalam bambu dengan santan kelapa."
+          }
+        ]
+      }
+    ]
+  }
+  
