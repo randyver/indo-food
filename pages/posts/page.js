@@ -48,10 +48,11 @@ export default function Page() {
               <img src="/search.png" alt="Search" width="20px" />
             </div>
           </div>
+
           <div className={styles.foodContainer}>
             {filteredFoods.map((food) => (
               <div key={food.title}>
-                <Link className={styles.cardFood} href={`/posts/content?food=${food.title}`}>
+                <Link className={styles.cardFood} href={`/posts/content?food=${food.title}`} style={{ textDecoration: 'none' }}>
                   <img src={food.image} alt={food.title} />
                   <div className={styles.cardContent}>
                     <h3>{food.title}</h3>
@@ -61,6 +62,7 @@ export default function Page() {
               </div>
             ))}
           </div>
+
           <Footer />
         </div>
       ) : (

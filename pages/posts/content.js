@@ -28,8 +28,8 @@ export default function Content() {
             <div>
                 <div className={styles.container}>
                     <h2>{title}</h2>
-                    <img src={image} width="200px" style={{borderRadius: '8px'}}></img>
-                    <p style={{fontSize: '12px'}}>{description}</p>
+                    <img src={image} width="600px"></img>
+                    <p style={{fontSize: '14pt'}}>{description}</p>
                     <Footer />
                 </div>
             </div>

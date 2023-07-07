@@ -28,7 +28,7 @@ export default function Home() {
       </div>
       <div className={styles.grid}>
       {regions.map(region => (
-        <Link href={`/posts/page?region=${region.name}`} className={styles.card} key={region.name}>
+        <Link href={`/posts/page?region=${region.name}`} className={styles.card} key={region.name} style={{ textDecoration: 'none' }}>
           <img src={region.icon} width="40" />
           <h4>{region.name}</h4>
         </Link>
