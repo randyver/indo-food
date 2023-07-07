@@ -26,11 +26,10 @@ export default function Content() {
         const { title, description, image } = selectedFood;
         return (
             <div>
-                <div className={styles.container}>
+                <div className={`${styles.boxed}`}>
                     <h2>{title}</h2>
-                    <img src={image} width="600px"></img>
-                    <p style={{fontSize: '14pt'}}>{description}</p>
-                    <Footer />
+                    <img src={image} className={styles.imgCont}></img>
+                    <p className={styles.desc} style={{fontSize: '12pt'}}>{description}</p>
                 </div>
             </div>
         )
