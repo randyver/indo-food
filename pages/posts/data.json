@@ -40,12 +40,24 @@
         "name": "Jawa",
         "foods": [
           {
+            "image": "https://kbu-cdn.com/dk/wp-content/uploads/gudeg-jogja.jpg",
             "title": "Gudeg",
             "description": "Gudeg adalah makanan khas Yogyakarta dan Jawa Tengah yang terbuat dari nangka muda yang dimasak dalam santan dengan bumbu rempah-rempah."
           },
           {
+            "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/12/29/309887400.jpg",
             "title": "Sate Ayam",
             "description": "Sate Ayam adalah makanan khas Jawa yang terdiri dari daging ayam yang ditusuk dan dipanggang, disajikan dengan bumbu kacang."
+          },
+          {
+            "image": "https://www.resepmama.id/cdn/recipes/1673384850650131-soto-ayam-bening.jpg",
+            "title": "Soto Ayam",
+            "description": "Soto ayam kuning ini rasanya gurih segar. Isian ayam suwir dan sayuran membuat soto ini mengenyangkan dinikmati dengan nasi hangat. Soto ayam di Jawa Tengah biasanya berkuah bening. Ada yang berkuah kuning dan ada yang berkuah bening. Umumnya memakai ayam kampung sebagai bahan utama. Kuah kuning soto ayam ini karena bumbunya memakai kunyit. Selain membuat aroma dan rasa kaldu soto makin gurih enak, kunyit juga memberi manfaat untuk imunitas tubuh."
+          },
+          {
+            "image": "https://img.kurio.network/Ls_P6YrDxGbPi8qsI0CixqjVZWw=/1200x1200/filters:quality(80)/https://kurio-img.kurioapps.com/21/04/12/bfd167e3-3613-4a57-9515-ea4aee8fb25b.jpe",
+            "title": "Rawon",
+            "description": "Rawon adalah masakan Indonesia berasal dari Ponorogo yang berupa sup daging berkuah hitam dengan campuran bumbu khas yang menggunakan kluwek. Rawon, Menyebar keluar Ponorogo karena Ponorogo memiliki peran Penting dari masa ke masa, hingga dikenal sebagai masakan khas Jawa Timur (daerah Arekan), masyarakat Jawa Tengah sebelah timur (daerah Surakarta). Daging untuk rawon umumnya adalah daging sapi yang dipotong kecil-kecil, utamanya adalah bagian sandung lamur. Bumbu supnya sangat khas Indonesia, yaitu campuran bawang merah, bawang putih, lengkuas (laos), ketumbar, kemiri, serai, kunir, cabai, kluwek, garam, serta minyak nabati. Semua bahan ini dihaluskan, lalu ditumis sampai harum. Campuran bumbu ini kemudian dimasukkan dalam kaldu rebusan daging bersama-sama dengan daging. Warna gelap khas rawon berasal dari kluwek, hal itu dikarenakan dalam budaya Ponorogo masih kental akan hal magis. Di luar negeri, rawon disebut sebagai black soup. "
           }
         ]
       },
@@ -53,12 +65,44 @@
         "name": "Kalimantan",
         "foods": [
           {
-            "title": "Pansoh Manuk",
-            "description": "Pansoh Manuk adalah masakan khas Kalimantan yang terdiri dari ayam yang dimasak dalam bambu dengan bumbu tradisional Kalimantan seperti lengkuas, serai, daun salam, dan kunyit."
+            "image": "https://sweetrip.id/wp-content/uploads/2021/10/resep-soto-banjar.jpg",
+            "title": "Soto Banjar",
+            "description": "Soto Banjar adalah soto ayam berempah yang lahir di tengah masyarakat suku Banjar di Kalimantan Selatan. Bisa dibilang juga bahkan hidangan ini adalah salah satu masakan terpopuler dari Kalimantan. Berbahan dasar ayam kampung, soto ini memiliki keunikan, yaitu bumbunya diperkaya dengan rempah-rempah biji pala, cengkih, dan kayu manis. Ada pula yang menambahkan beberapa butir kapulaga ke dalam air rebusan kuah soto yang semakin gurih berkat Royco Kaldu Ayam. Selain berkuah bening, ada juga yang menambahkan susu ke dalam kaldunya sehinga kuah soto nampak lebih keruh. Intinya, keunikan Soto Banjar ini sulit untuk dilewatkan!"
           },
           {
-            "title": "Lemang",
-            "description": "Lemang adalah makanan tradisional Kalimantan yang terbuat dari beras yang dimasak dalam bambu dengan santan kelapa."
+            "image": "https://img-global.cpcdn.com/recipes/713c19614d554ed4/680x482cq70/oseng-manday-kulit-cempedak-pedas-foto-resep-utama.jpg",
+            "title": "Manday",
+            "description": "Manday atau Mandai adalah salah satu jenis lauk alternatif dari daerah Kalimantan Selatan. Mandai disebut juga dengan Mandai Basanga atau kulit buah Cempedak yang digoreng. Orang Banjar biasanya menyebut makanan dari kulit cempedak ini dengan Manday tetapi ada juga yang menyebutnya dengan Dami."
+          }
+        ]
+      },
+      {
+        "name": "Sulawesi",
+        "foods": [
+          {
+            "image": "https://resepkoki.id/wp-content/uploads/2016/04/Resep-Coto-Makassar.jpg",
+            "title": "Coto Makassar",
+            "description": "Ketika menyebutkan jenis-jenis masakan terkenal asal Sulawesi Selatan pastinya tidak akan jauh dari yang namanya Coto Makassar. Maklum, kuliner kota ini memang terkenal akan beragam masakan daging serta kuahnya. Itulah serunya berkunjung ke kota tepi laut ini karena ada beberapa masakan daging berkuah yang sejatinya berbeda seperti Pallubasa, Konro, hingga Sop Saudara. Bahan dasar Coto Makassar atau bumbu Coto Makassar menggunakan paduan bahan yang dihaluskan dari cabai merah keriting, bawang putih, ketumbar, kemiri, gula merah, dan taoco. Dimana Sop Konro dan Konro Bakar menggunakan iga sapi, maka Pallubasa dan coto umumnya menggunakan daging sapi pada umumnya. Perbedaan lainnya datang dari rasa dan tekstur kuahnya. Keunikan Pallubasa adalah menggunakan kelapa parut, maka inilah yang memberikan tekstur yang lebih kental dan berisi. Sementara itu, coto lebih terasa bersih dan ringan. Ada yang bilang, itulah sebabnya juga mengapa menikmati Pallubasa lebih cocok dengan nasi dan berbeda dengan coto yang menggunakan buras."
+          },
+          {
+            "image": "https://awsimages.detik.net.id/community/media/visual/2021/05/25/resep-pisang-epe-khas-makassar-1_43.jpeg?w=600&q=90",
+            "title": "Pisang Epe",
+            "description": "Olahan pisang khas Makassar, pisang epe, menjadi salah satu makanan yang layak dicoba saat berkunjung ke Makassar. Pisang epe khas kota anging mammiri ini sangat mudah ditemukan di setiap sudut Pantai Losari. Dalam bahasa Makassar, 'epe' memiliki arti jepit. Sesuai dengan namanya, pisang epe adalah jajanan berbahan pisang raja yang dibakar, kemudian dijepit hingga pipih. Pisang raja dipilih karena memiliki aroma khas dengan rasa yang cenderung manis. Cita rasanya yang manis menjadikan panganan ini sebagai salah satu sajian yang banyak disukai wisatawan lokal hingga mancanegara. Beberapa bahan lain yang dibutuhkan untuk membuat kuliner Makassar ini adalah margarin, gula merah atau gula jawa, daun pandan, air, garam, serta gula pasir. Bahan yang sederhana dan mudah didapat ini pun siap diolah menjadi sajian khas pisang epe."
+          }
+        ]
+      },
+      {
+        "name": "Papua",
+        "foods": [
+          {
+            "image": "https://www.topwisata.info/wp-content/uploads/2022/08/Papeda-Gulung-1.jpg",
+            "title": "Papeda",
+            "description": "Papeda adalah makanan berupa bubur sagu khas Maluku dan Papua yang biasanya disajikan dengan ikan tongkol atau mubara yang dibumbui dengan kunyit. Papeda berwarna putih dan bertekstur lengket menyerupai lem dengan rasa yang tawar. Papeda merupakan makanan yang kaya serat, rendah kolesterol, dan cukup bernutrisi."
+          },
+          {
+            "image": "https://kurio-img.kurioapps.com/21/10/06/fc4f9ab5-f51b-4dcc-8704-a65af2ddb22a.jpe",
+            "title": "Kue Bagea",
+            "description": "Bagea merupakan kue tradisional khas Indonesia Timur, mulai dari Maluku, Sulawesi Selatan, dan Sulawesi Tenggara. Kue ini memiliki bentuk yang bulat yang berwarna coklat dengan bahan dasar sagu. Kue ini dibungkus dalam daun lontar atau daun enau dan dipanggang hingga kering. Saat menyantapnya, Kawan akan mencium wangi khas kue bagea yang menggugah selera. Dalam pembuatannya, kue Bagea biasanya disantap dengan teh atau kopi."
           }
         ]
       }
